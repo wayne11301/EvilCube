@@ -12,4 +12,4 @@ Players need to keep shooting at the incoming object to prevent being bump out o
 
 ### Credit
 
-I did not create this project, all credit to the creator of this video: https://www.youtube.com/watch?v=QJpfLkEsoek
+I did not invent this game, all credit to the creator of this video: https://www.youtube.com/watch?v=QJpfLkEsoek
